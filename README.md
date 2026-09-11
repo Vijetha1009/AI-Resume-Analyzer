@@ -6,11 +6,11 @@ An AI-powered Resume Analyzer that evaluates resumes against a given job descrip
 
 ### 🌐 Frontend
 
-https://ai-resume-analyzer-qs8m.onrender.com/
+ai-resume-analyzer-cu8ddm4jm-vijetha.vercel.app
 
 ### ⚙️ Backend API
 
-https://ai-resume-analyzer-qs8m.onrender.com/
+https://ai-resume-analyzer-qs8m.onrender.com
 
 > The frontend application is deployed on Vercel and the Spring Boot backend is deployed on Render.
 
